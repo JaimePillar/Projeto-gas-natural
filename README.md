@@ -1,4 +1,4 @@
-# Projeto preço de gas
+# Baixando dados de combustíveis e energia (Yfinance)
 ## Introdução
 O setor da energia, que inclui combustíveis e várias formas de energia, desempenha um papel fundamental na economia global. Ao tirar partido do Yfinance, podemos obter dados sobre futuros para compreender melhor a dinâmica e as tendências deste setor.
 
